@@ -1,0 +1,50 @@
+_repo: Charlotte-Temple_171
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rowson, Mrs.
+    aliases:
+    - Haswell, Susannah
+    - Rowson, Susanna Haswell
+    birthdate: 1762
+    deathdate: 1824
+    gutenberg_agent_id: '108'
+    url: http://www.gutenberg.org/2009/agents/108
+description: "Charlotte Temple is a novel by Susanna Rowson. It was first published\
+  \ in England in 1791 under the title Charlotte, A Tale of Truth. The first American\
+  \ edition was published in 1794 and the novel became a bestseller. It has gone through\
+  \ over 200 American editions.\nCharlotte Temple is the name of the main character\
+  \ in this book. Charlotte is the mother of Lucy Temple, the namesake of Rowson's\
+  \ sequel to this book, Lucy Temple.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '171'
+  wikidata: Q5086165
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runaway teenagers -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Teenage pregnancy -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcsh 'Elopement -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Seduction -- Fiction'
+- !lcsh 'Soldiers -- Fiction'
+- !lcsh 'Teenage girls -- Fiction'
+- !lcsh 'Betrayal -- Fiction'
+- !lcsh 'British -- New York (State) -- New York -- Fiction'
+- GITenberg
+title: Charlotte Temple
+url: http://www.gutenberg.org/ebooks/171
+wikipedia:
+- https://pl.wikipedia.org/wiki/Charlotte_Temple
+- https://ar.wikipedia.org/wiki/%D8%B4%D8%A7%D8%B1%D9%84%D9%88%D8%AA_%D8%AA%D9%8A%D9%85%D8%A8%D9%84
+- https://en.wikipedia.org/wiki/Charlotte_Temple
+- https://es.wikipedia.org/wiki/Charlotte_temple
+- https://la.wikipedia.org/wiki/Charlotte_Temple
